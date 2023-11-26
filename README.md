@@ -2,8 +2,11 @@
 
 #### Skills
 #### Data Science: 
-Predictive modeling, R, Python, SQL
-#### Product Management: Feature discovery, Project management, Stakeholder collaboration, Design, Customer interviews, Generative AI for product management
+-Machine Learning Models, Statistical Models, R, Python, SQL
+#### Product Management: 
+-Feature discovery, Project management, Stakeholder collaboration, Design, Customer interviews
+#### Misc
+- Generative AI for product management
 
 ## Education
 - M.S., Computer Science | University of Chicago (_2013_)							       		
