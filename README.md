@@ -1,12 +1,12 @@
 # Product Manager & Data Scientist
 
-#### Skills
+### Skills
 #### Data Science: 
--Machine Learning Models, Statistical Models, R, Python, SQL
+Machine Learning Models (GBM, Random Forrest, Neural Networks), Statistical Models (GLMs), R, Python, SQL
 #### Product Management: 
--Feature discovery, Project management, Stakeholder collaboration, Design, Customer interviews
+Feature discovery (ProductBoard, Miro) , Delivery (JIRA), Project management (Notion, Ganntt Charts), Design (Balsamiq, Figma)
 #### Misc
-- Generative AI for product management
+Generative AI for product management, Group meeting facilitation, Customer & Stakeholder interviews 
 
 ## Education
 - M.S., Computer Science | University of Chicago (_2013_)							       		
