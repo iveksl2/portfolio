@@ -1,11 +1,12 @@
 # Product Manager & Data Scientist
 
 #### Skills
-#### Data Science: Predictive modeling, R, Python, SQL
+#### Data Science: 
+Predictive modeling, R, Python, SQL
 #### Product Management: Feature discovery, Project management, Stakeholder collaboration, Design, Customer interviews, Generative AI for product management
 
 ## Education
-- M.s., Computer Science | University of Chicago (_2013_)							       		
+- M.S., Computer Science | University of Chicago (_2013_)							       		
 - B.S., Finance	| University of Illinois Urbana-Champaign (_2007_) 			        		
 
 
@@ -17,7 +18,7 @@
 
 **Product Manager @ Weights & Biases (_2016 - 2022_)**
 - Lead product manager bringing to market a new MLOps infrastructure product called [W&B Launch](https://docs.wandb.ai/guides/launch)
-- Managing the complete product developement lifecycle
+- Managing the complete product development lifecycle
 
 **Lead Customer Facing Data Scientist & Product Manager @ DataRobot (_2016 - 2022_)**
 - Lead product manager for streamlit app gallery and decision flows. Received positive reviews from customers  
@@ -30,7 +31,7 @@
 
 **Data Scientist @ Avant Credit (_2014-2016_)**
 - Built predictive models within Underwriting, Fraud, Income estimation, etc.
-- Attained UK & US savings of greather thatn 5 million annually
+- Attained UK & US savings of greater than 5 million annually
 
 
 ## Additional articles & posts
