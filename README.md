@@ -1,12 +1,12 @@
 # Product Manager & Data Scientist
 
-### Skills
+### Skillsets
+#### Product Management: 
+Product roadmaping, Customer product discovery, Customer feature delivery, Project management, Stakeholder management and collaboration, Design, Product marketing, Partnerships and integrations
 #### Data Science: 
 Machine Learning Models (GBM, Random Forrest, Neural Networks), Statistical Models (GLMs), R, Python, SQL
-#### Product Management: 
-Feature discovery (ProductBoard, Miro) , Delivery (JIRA), Project management (Notion, Ganntt Charts), Design (Balsamiq, Figma)
 #### Misc
-Generative AI for product management, Group meeting facilitation, Customer & Stakeholder interviews 
+Generative AI for product management, Group meeting facilitation
 
 ## Education
 - M.S., Computer Science | University of Chicago (_2013_)							       		
